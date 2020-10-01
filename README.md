@@ -28,7 +28,7 @@ Before proceeding, make sure you understand the implications and can accept the 
 - This is a selfbot and is against Discord terms of service, so don't mention that you implemented this anywhere.
 - Running more than one instance or a combination of different snipers is risky.
 - If you snipe a lot of nitro in a short amount of time, refrain from sniping for a while.
-- Beware of the moral implications when you are using this. You might steal a gift that is meant for someone else and ruin their Christmas.
+- Beware of the moral implications when you are using this. You might steal a gift that is meant for someone else and ruin a simp's chances of getting laid.
 
 # License
 [GPL-3.0-or-later](https://www.gnu.org/licenses/) 
