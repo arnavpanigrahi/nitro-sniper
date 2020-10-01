@@ -22,7 +22,7 @@ Before proceeding, make sure you understand the implications and can accept the 
 - Run `node .`
 
 # Tips
-- How to get token easily? <img alt="img" align="right" src="https://imgur.com/a/Rr8d5SQ">
+- How to get token easily? <img alt="img" align="left" src="https://imgur.com/a/Rr8d5SQ">
 - Join a lot of servers(~100) to increase chances of sniping!
 - Join servers with low latency i.e. in your region to increase chances of sniping/
 - This is a selfbot and is against Discord terms of service, so don't mention that you implemented this anywhere.
