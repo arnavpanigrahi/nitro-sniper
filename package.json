@@ -1,0 +1,28 @@
+{
+  "name": "nitro-sniper",
+  "version": "1.0.0",
+  "description": "360 no-scopes most dropped nitros!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "arnavpanigrahi",
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/arnavpanigrahi/nitro-sniper",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnavpanigrahi/nitro-sniper.git"
+  },
+  "keywords": [
+    "discord",
+    "nitro",
+    "sniper"
+  ],
+  "dependencies": {
+    "axios": "^0.19.2",
+    "discord.js": "^11.6.4",
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.4"
+  }
+}

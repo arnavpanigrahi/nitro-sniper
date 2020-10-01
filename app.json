@@ -1,0 +1,11 @@
+{
+    "name": "Nitro Sniper",
+    "description": "A nitro sniper for discord.",
+    "repository": "https://github.com/arnavpanigrahi/nitro-sniper",
+    "env": {
+       "TOKEN": {
+          "description": "Your main account's token, used for redeeming the gift.",
+          "required": true
+       }
+       }
+    }
