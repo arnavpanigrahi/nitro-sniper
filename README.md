@@ -9,7 +9,7 @@ Before proceeding, make sure you understand the implications and can accept the 
 
 # Installation methods
 #### Heroku
-Login to heroku and click the button below.
+Login to heroku and click the button below.</br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/arnavpanigrahi/nitro-sniper/tree/master)
 #### Local
 - Make sure [Node](https://nodejs.org/en/) is installed on your system and open a command prompt/terminal.
