@@ -1,4 +1,4 @@
-# nitro-sniper  
+# Nitro-Sniper  
 # Features
 - Removes non-alphanumeric chars automatically from codes and tries to redeem.
 - Supports code obfuscation.
