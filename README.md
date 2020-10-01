@@ -9,8 +9,10 @@ Before proceeding, make sure you understand the implications and can accept the 
 
 # Installation methods
 #### Heroku
-Login to heroku and click the button below.</br>
+- Login to heroku and click the button below.</br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/arnavpanigrahi/nitro-sniper/tree/master)
+- Make sure you go to your app -> Configure dynos/Resources and turn off `web` and start `worker`.<br>
+- You can then see logs by clicking on `More` (top right) and then `View logs`.<br>
 #### Local
 - Make sure [Node](https://nodejs.org/en/) is installed on your system and open a command prompt/terminal.
 - Run `git clone https://github.com/arnavpanigrahi/nitro-sniper`
@@ -20,6 +22,7 @@ Login to heroku and click the button below.</br>
 - Run `node .`
 
 # Tips
+- How to get token easily? <img alt="img" align="right" src="https://imgur.com/a/Rr8d5SQ">
 - Join a lot of servers(~100) to increase chances of sniping!
 - Join servers with low latency i.e. in your region to increase chances of sniping/
 - This is a selfbot and is against Discord terms of service, so don't mention that you implemented this anywhere.
