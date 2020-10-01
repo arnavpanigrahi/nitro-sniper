@@ -8,6 +8,9 @@ The use of selfbots is against the [discord TOS](https://discord.com/terms) and 
 Before proceeding, make sure you understand the implications and can accept the consequences.
 
 # Installation methods
+#### Heroku
+Login to heroku and click the button below.
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/arnavpanigrahi/nitro-sniper/tree/master)
 #### Local
 - Make sure [Node](https://nodejs.org/en/) is installed on your system and open a command prompt/terminal.
 - Run `git clone https://github.com/arnavpanigrahi/nitro-sniper`
