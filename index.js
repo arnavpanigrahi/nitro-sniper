@@ -36,7 +36,7 @@ client.on('message', message => {
                     url: `https://discordapp.com/api/v6/entitlements/gift-codes/${code}/redeem`,
                     headers:
                     {
-                        'Authorization': process.env.TOKEN
+                        'Authorization': process.env.TOKEN,
                         'User-Agent': userAgent
                     }
                 }).then(
