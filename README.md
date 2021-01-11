@@ -15,7 +15,7 @@ Before proceeding, make sure you understand the implications and can accept the 
 - You can then see logs by clicking on `More` (top right) and then `View logs`.<br>
 #### Local
 - Make sure [Node](https://nodejs.org/en/) is installed on your system and open a command prompt/terminal.
-- Run `git clone https://github.com/arnavpanigrahi/nitro-sniper`
+- Run `git clone https://github.com/quiet69/nitro-sniper`
 - Run `cd nitro-sniper`
 - Run `npm install`
 - Edit the dotenv file and put your discord token.
